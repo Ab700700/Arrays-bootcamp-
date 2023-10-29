@@ -8,8 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
             //1.Write a Java program to test if the first and the last element of an array of
-        //integers are same. The length of the array must be greater than or equal to
-        //2
+        //integers are same. The length of the array must be greater than or equal to 2
 
 //        int ar[] ={50,-20,0,30,40,60,10};
 //        System.out.println(ar[0]==ar[ar.length-1]);
